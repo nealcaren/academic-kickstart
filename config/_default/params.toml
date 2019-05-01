@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "playfair"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "neal.caren@unc.edu"
 phone = ""
-address = "Department of Sociology<br>212 Hamilton Hall, CB #3210`<br>UNC-CH<br>Chapel Hill, NC 27599-3210"
+address = "Department of Sociology<br>212 Hamilton Hall, CB #3210`<br>University of North Carolina, Chapel Hill<br>Chapel Hill, NC 27599-3210"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Office hours by appointment"
