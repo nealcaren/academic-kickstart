@@ -3,12 +3,12 @@ title = "SOCI 101: Sociological Perspectives"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-05-01T20:10:36+02:00
-date_end = 2019-05-01T20:10:36+02:00
-all_day = false
+# date = 2019-05-01T20:10:36+02:00
+# date_end = 2019-05-01T20:10:36+02:00
+# all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-05-01T20:10:36+02:00
+# publishDate = 2019-05-01T20:10:36+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
