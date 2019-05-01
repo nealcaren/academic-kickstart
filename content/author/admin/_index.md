@@ -81,6 +81,8 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I am an Associate Professor of Sociology at the University of North Carolina, Chapel Hill.
+I am an Associate Professor in the  [Sociology](https://sociology.unc.edu/) at the [University of North Carolina, Chapel Hill](http://unc.edu). My current research is on contemporary US social movements and the uses of media data for understanding movement processes. My work has appeared in journals such as *American Sociological Review*, *Social Forces*, *Social Problems*, and the *Annual Review of Sociology.*
 
-I currently serve as the editor of the interdisciplinary social movements journal Mobilization. 
+I currently serve as the editor of the interdisciplinary social movements journal [*Mobilization*](https://mobilizationjournal.org), the premier journal of research specializing in social movements, protests, insurgencies, revolutions, and other forms of contentious politics. [Check out](https://mobilizationjournal.org/toc/maiq/24/1) our most recent issue.
+
+I teach graduate courses in computational social science, with a focus on collecting and analyzing text data with Python. At the undergraduate level, I teach Introduction to Sociology and the capstone course for our [Social and Economic Justice minor](https://sociology.unc.edu/undergraduate-program/social-and-economic-justice-minor/).
