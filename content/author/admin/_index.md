@@ -81,5 +81,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
+I am an Associate Professor of Sociology at the University of North Carolina, Chapel Hill.
 
-This is where my biography goes, I think.
+I currently serve as the editor of the interdisciplinary social movements journal Mobilization. 
