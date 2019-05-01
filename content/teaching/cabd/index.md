@@ -1,5 +1,5 @@
 +++
-title = "SOCI 101: Sociological Perspectives"
+title = "Collecting and Analyzing Big Data"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
