@@ -21,7 +21,7 @@ event = "Summer 2018"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "An introduction to collecting and analyzing *big data* for social scientists. This course has been taught at the University of Oslo (Norway) and KU Leuven (Belgium)."
+abstract = "A practical overview of contemporary methods of digital data collection and analysis for social scientists."
 
 # Summary. An optional shortened abstract.
 summary = ""
