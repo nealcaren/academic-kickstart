@@ -13,7 +13,7 @@ doi = "10.17813/1086-671X-23-4-393"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/22526649@N03">Ted Eytan</a> from Washington, DC, USA - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/taedc/32064512570/">2017.01.21 Women's March Washington, DC USA 00095</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55208317">Link</a>"
+  caption = "By Ted Eytan from Washington, DC, USA - 2017.01.21 [Women's March Washington, DC USA 00095](https://commons.wikimedia.org/w/index.php?curid=55208317), CC BY-SA 2.0"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
