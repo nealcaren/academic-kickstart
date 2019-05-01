@@ -21,7 +21,7 @@ event = "Spring 2019"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "The course is designed to introduce students to the sociological study of society."
 
 # Summary. An optional shortened abstract.
 summary = ""
