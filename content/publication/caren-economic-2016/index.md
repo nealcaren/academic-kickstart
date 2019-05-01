@@ -1,5 +1,5 @@
 +++
-title = "Economic breakdown and collective action"
+title = "Economic Breakdown and Collective Action"
 date = 2016-01-01
 authors = ["Neal Caren", "Sarah Gaby", "Catherine Herrold"]
 publication_types = ["2"]
@@ -9,4 +9,3 @@ publication = "*Social Problems*"
 url_pdf = "https://academic.oup.com/socpro/article/64/1/133/2670547"
 doi = "10.1093/socpro/spw030"
 +++
-
