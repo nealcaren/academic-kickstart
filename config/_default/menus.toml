@@ -18,6 +18,11 @@
     url = "teaching"
     weight = 50
 
+[[Lessons]]
+      name = "Lessons"
+      url = "lessons"
+      weight = 50
+
 [[main]]
   name = "Contact"
   url = "#contact"
