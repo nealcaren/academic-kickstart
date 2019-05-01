@@ -1,0 +1,12 @@
++++
+title = "Disruptive Democratization: Contentious Events and Liberalizing Outcomes Globally, 1990–2004"
+date = 2015-01-01
+authors = ["Mohammad Ali Kadivar", "Neal Caren"]
+publication_types = ["2"]
+abstract = "Does contentious collective action matter? Whereas most social movement literature has addressed this question in the US context for policy change outcomes, this paper takes a different approach by bringing the question to a global context and examines democratization as a structural outcome. Accordingly, we test several hypotheses about the ephemeral, positive, and negative influences of contentious collective action on the democratization process in a given country, as well as the cross-border effect of the contention. To go beyond the limitations of previous studies, this paper uses a monthly time-series, cross-national model to examine potential liberalizing or deliberalizing effects of protest activities. Using data from 103 non-democratic countries from 1990 to 2004, we find that protests and riots increase the probability that a country will liberalize in a given month. We find that while contentious events in other countries do not directly increase the risk of liberalization, external contentious events, especially those that lead to political liberalization, increase the count of contentious events, thus indirectly boosting liberalization. We find no evidence that protest significantly increases the chances of deliberalization. Together, our findings show a key role for non-elite political actors to influence political liberalization."
+featured = false
+publication = "*Social Forces*"
+url_pdf = "https://academic.oup.com/sf/article-abstract/94/3/975/2461625?redirectedFrom=fulltext"
+doi = "10.1093/sf/sov096"
++++
+
