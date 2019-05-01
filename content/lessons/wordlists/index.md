@@ -1,7 +1,7 @@
 ---
 title: "Word Lists and Sentiment Analysis"
 date: 2019-05-01T23:05:55+02:00
-draft: true
+draft: false
 ---
 
 
