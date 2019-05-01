@@ -39,7 +39,7 @@ user_groups = []
   year = 2005
 
 [[education.courses]]
-  course = "Ma in Sociology"
+  course = "MA in Sociology"
   institution = "New York University"
   year = 2001
 
@@ -81,5 +81,3 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-
-
