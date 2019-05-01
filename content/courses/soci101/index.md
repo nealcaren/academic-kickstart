@@ -21,7 +21,10 @@ event = "Spring 2019"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "[Spring 2019 Syllabus](https://docs.google.com/document/d/1amlh9TTOnLnWBiOeWEL-zhSRPt9WIWRhW6ib7z5lYQQ/edit?usp=sharing)<br>The course is designed to introduce students to the sociological study of society. Sociology focuses on the systematic understanding of social interaction, social organization, social institutions, and social change. Major themes in sociological thinking include the interplay between the individual and society, how society is both stable and changing, the causes and consequences of social inequality, and the social construction of human life. Understanding sociology helps discover and explain social patterns and see how such patterns change over time and in different settings. By making vivid the social basis of everyday life, sociology also develops critical thinking by revealing the social structures and processes that shape diverse forms of human life.<br>
+Consistent with these goals, the primary learning objective for the course is to develop and apply your sociological imagination, the capacity to think systematically about how things we experience as personal problems are really social issues. In your textbooks readings, you will be introduced to the major topics that sociologists study and how the topics are analyzed. During class, you will have a chance to further develop your sociological imagination and apply it to new situations. In exams and a book review, you will have a chance to demonstrate your mastery of sociological thinking.<br>
+ This course has no prerequisites and is appropriate for just about everyone. It is designed as both an introduction for those students who plan further study in the area and as an overview for those will only visit the world of sociology once. It will also provide students an opportunity for students to learn information relevant to the sociology section of the MCAT.
+"
 
 # Summary. An optional shortened abstract.
 summary = ""
