@@ -8,4 +8,19 @@ featured = false
 publication = "*Social Problems*"
 url_pdf = "https://academic.oup.com/socpro/article/64/1/133/2670547"
 doi = "10.1093/socpro/spw030"
+
+
+[image]
+  # Caption (optional)
+  caption = "Thomas Bresson"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+
+  # Show image only in page previews?
+  preview_only = false
+
+
+
 +++
