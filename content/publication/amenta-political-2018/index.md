@@ -7,4 +7,19 @@ abstract = ""
 featured = false
 publication = "*The Wiley Blackwell Companion to Social Movements*"
 url_pdf = ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = "[Paul Sableman](https://www.flickr.com/people/53301297@N00)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Bottom"
+
+  # Show image only in page previews?
+  preview_only = false
+
+
 +++
