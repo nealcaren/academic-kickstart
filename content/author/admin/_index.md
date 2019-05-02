@@ -42,6 +42,7 @@ user_groups = []
   course = "MA in Sociology"
   institution = "New York University"
   year = 2001
+  logo = "/logo/favicon_nyu.png"
 
 [[education.courses]]
   course = "BA in Sociology"
