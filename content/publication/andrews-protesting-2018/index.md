@@ -13,11 +13,11 @@ doi = "10.17813/1086-671X-23-4-393"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "[Paul Sableman](https://www.flickr.com/people/53301297@N00)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Bottom"
+  focal_point = "Smart"
 
   # Show image only in page previews?
   preview_only = false
