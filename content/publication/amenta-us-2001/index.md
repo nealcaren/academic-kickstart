@@ -1,0 +1,11 @@
++++
+title = "US social policy in comparative and historical perspective: Concepts, images, arguments, and research strategies"
+date = 2001-01-01
+authors = ["Edwin Amenta", "Chris Bonastia", "Neal Caren"]
+publication_types = ["2"]
+abstract = "In this article we review theory and comparative and historical research on US social policy. We discuss first the conceptual frameworks used to think about social policy, the changing images of American social policy implied by these different frameworks, and the questions they raise. From there we examine the arguments offered to answer questions about US social policy as well as the research strategies and evidence used to appraise the arguments. We address work that situates US social policy in comparative perspective as well as work that examines the development of American social policy historically or across states. Although many lines of argumentation have some empirical support, we find that some lines of political and institutional analyses provide the best supported answers to the questions and the greatest potential for wide usage in comparative and historical studies. We conclude that scholars would do well not to treat American social policy as so exceptional as to require separate images, explanations, and approaches. We suggest promising new lines of empirical inquiry prompted by new conceptualizations of social policy and other developments in this literature."
+featured = false
+publication = "*Annual Review of Sociology*"
+doi = "https://doi.org/10.1146/annurev.soc.27.1.213"
++++
+
