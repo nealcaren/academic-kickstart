@@ -1,5 +1,5 @@
 ---
-title: "Data management and exploration in pandas
+title: "Data management and exploration in pandas"
 date: 2020-01-01T23:05:55+02:00
 draft: false
 ---
