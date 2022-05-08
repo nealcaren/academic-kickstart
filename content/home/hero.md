@@ -35,18 +35,20 @@ hero_media = "roughdraft.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history"
-  label = "Purchase the book"
+  label = "Princeton University Press"
   icon_pack = "fas"
   icon = "book"
 
-
+  [cta]
+    url = "https://www.amazon.com/Rough-Draft-History-International-Perspectives/dp/0691232776/ref=sr_1_4?crid=1PYQAHQ8LND2G"
+    label = "Amazon"
+    icon_pack = "fas"
+    icon = "book"
 
 +++
 
 **By Edwin Amenta and Neal Caren**
 
 A comprehensive account of the media's coverage of social movements in the United States.
-
-> A new view of twentieth-century US social movements, Rough Draft of History examines how national newspapers covered social movements and the organizations driving them. Edwin Amenta and Neal Caren identify hundreds of movement organizations, from the Women’s Christian Temperance Union to Occupy Wall Street, and document their treatment in the news. In doing so, Amenta and Caren provide an alternative account of US history from below, as it was refracted through journalistic lenses.
 
 2022. Princeton University Press.
