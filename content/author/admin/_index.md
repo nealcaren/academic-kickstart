@@ -82,10 +82,10 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-I am an Associate Professor in the  [Sociology](https://sociology.unc.edu/) at the [University of North Carolina, Chapel Hill](http://unc.edu). My current research is on contemporary US social movements and the uses of media data for understanding movement processes. My work has appeared in journals such as *American Sociological Review*, *Social Forces*, *Social Problems*, and the *Annual Review of Sociology.*
+I am an Associate Professor in the  [Sociology](https://sociology.unc.edu/) at the [University of North Carolina, Chapel Hill](http://unc.edu). My current research is on contemporary US social movements and the uses of media data for understanding movement processes. With Edwin Amenta, I am the author of *[Rough Draft of History: A Century of US Social Movements in the News](https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history)*(Princeton 2022). My work has also appeared in journals such as *American Sociological Review*, *Social Forces*, *Social Problems*, and the *Annual Review of Sociology.*
 
 I currently serve as the editor of the interdisciplinary social movements journal [*Mobilization*](https://mobilizationjournal.org), the premier journal of research specializing in social movements, protests, insurgencies, revolutions, and other forms of contentious politics. [Check out](https://mobilizationjournal.org/toc/maiq/24/1) our most recent issue.
 
 I teach graduate courses in computational social science, with a focus on collecting and analyzing text data with Python. At the undergraduate level, I teach Introduction to Sociology and the capstone course for our [Social and Economic Justice minor](https://sociology.unc.edu/undergraduate-program/social-and-economic-justice-minor/).
 
-I enjoy the trails in [Carolina North](https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/). I am a mediocre trail runner [in the mountains](https://ultrasignup.com/results_participant.aspx?fname=Neal&lname=Caren), and [cyclocross racer](https://www.crossresults.com/racer/196345).
+I enjoy the trails in [Carolina North](https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/). I am mediocre at racing on [trails](https://ultrasignup.com/results_participant.aspx?fname=Neal&lname=Caren), and [bikes](https://www.crossresults.com/racer/196345).

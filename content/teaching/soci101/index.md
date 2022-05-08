@@ -17,7 +17,7 @@ authors = []
 location = "University of North Carolina, Chapel Hill"
 
 # Name of event and optional event URL.
-event = "Spring 2019"
+event = "Spring 2022"
 event_url = ""
 
 # Abstract. What's your talk about?
@@ -67,7 +67,7 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-[Spring 2019 Syllabus](https://docs.google.com/document/d/1amlh9TTOnLnWBiOeWEL-zhSRPt9WIWRhW6ib7z5lYQQ/edit?usp=sharing)
+[Spring 2022 Syllabus](https://docs.google.com/document/d/1U_SlabroVJeYFGAspR4oGing911FSsBzktLI8tIaTbg/edit?usp=sharing)
 
 The course is designed to introduce students to the sociological study of society. Sociology focuses on the systematic understanding of social interaction, social organization, social institutions, and social change. Major themes in sociological thinking include the interplay between the individual and society, how society is both stable and changing, the causes and consequences of social inequality, and the social construction of human life. Understanding sociology helps discover and explain social patterns and see how such patterns change over time and in different settings. By making vivid the social basis of everyday life, sociology also develops critical thinking by revealing the social structures and processes that shape diverse forms of human life.
 

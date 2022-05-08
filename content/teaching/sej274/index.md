@@ -67,6 +67,6 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-[Spring 2020 Syllabus](https://docs.google.com/document/d/1dEigDXQV50qlrxAD0pmbjMt_WwmuUKa7AsE2VWV__Ts/edit?usp=sharing)
+[Spring 2022 Syllabus](https://docs.google.com/document/d/1LHrvHaowBa9lvGy1j2xBHrqE01vb3A1Q5e_DteIjFa4/edit?usp=sharing)
 
 This course covers the theory and practice of social and economic justice, including analyses of racial-gender-sexual-class-national and other forms of justice, the history of influential movements for justice, and strategies of struggles for justice. We will primarily accomplish this by looking at two cases: Greenwich Village in 1913 and India in 1945. We will conclude by examining issues of justice in the contemporary US.

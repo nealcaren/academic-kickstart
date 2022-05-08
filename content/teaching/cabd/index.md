@@ -14,10 +14,10 @@ title = "Collecting and Analyzing Big Data"
 authors = []
 
 # Location of event.
-location = "University of Oslo"
+location = "University of Oslo, KU Leuven"
 
 # Name of event and optional event URL.
-event = "Summer 2019"
+event = "2021"
 event_url = ""
 
 # Abstract. What's your talk about?
@@ -67,10 +67,8 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-*This course will next be offered Summer 2020 as part of the [Oslo Summer School in Comparative Social Science Studies](https://www.sv.uio.no/english/research/phd/summer-school/courses-2020/)*
-
-[Summer 2019 Oslo Github site](https://github.com/nealcaren/UiOBigData)
+*This course was offered Summer 2121*
 
 This course is an introduction to collecting and analyzing "big data" for social scientists. Over the last decade, the variety and types of data available to researchers have exploded. This includes not only contemporary data, such as from websites and social media platforms, but also historical data, from digitized interviews to 19th century newspapers. At the same time, analytic techniques from computer science are increasingly being used to solve social science problems. One week is not enough time to master the techniques for collecting and analyzing big data. You will, however, be able to establish the foundation for developing these skills. The course is designed as a practical overview. The emphasis each class will be on applying the specific techniques rather than on their mathematical basis. The course will provide an overview in that each lesson will introduce a new method in order to demonstrate the range methods. Combined, students will have the skills and resources to apply these methods to theoretically- relevant problems in the social sciences. The course [Github repository](https://github.com/nealcaren/UiOBigData) includes the Python materials for the course as Jupyter notebooks.
 
-This course has been taught as part of the Oslo Summer School in Comparative Social Science Studies in [2017](https://github.com/nealcaren/CSSS-CABD), [2018](https://github.com/nealcaren/osscabd_2018), [2019](https://github.com/nealcaren/UiOBigData), and as a [Capita Selecta](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0W36AE.htm#activetab=doelstellingen_idp120320) course at KU Leuven in [2019](https://github.com/nealcaren/KULeuvenBigData).
+This course has been taught as part of the Oslo Summer School in Comparative Social Science Studies in [2017](https://github.com/nealcaren/CSSS-CABD), [2018](https://github.com/nealcaren/osscabd_2018), [2019](https://github.com/nealcaren/UiOBigData), and as a [Capita Selecta](https://onderwijsaanbod.kuleuven.be/syllabi/e/G0W36AE.htm#activetab=doelstellingen_idp120320) course at KU Leuven in [2019](https://github.com/nealcaren/KULeuvenBigData) and 2021; and at the University of North Carolina in the Fall of 2020.
