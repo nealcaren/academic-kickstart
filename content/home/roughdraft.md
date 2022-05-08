@@ -4,7 +4,8 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Rought Draft of History
-subtitle:
+weight = 55  # Order that this section will appear.
+subtitle: A Century of US Social Movements in the News
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
