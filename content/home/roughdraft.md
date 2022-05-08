@@ -3,8 +3,8 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Rought Draft of History
-weight = 55  # Order that this section will appear.
+title: Rough Draft of History
+weight: 55  # Order that this section will appear.
 subtitle: A Century of US Social Movements in the News
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

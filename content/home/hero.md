@@ -2,10 +2,10 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Rough Draft of History"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -18,11 +18,11 @@ hero_media = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -34,18 +34,13 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history"
+  label = "Purchase the book"
+  icon_pack = academicons
+  icon = "obp"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+
+
 +++
 
 **The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)**
