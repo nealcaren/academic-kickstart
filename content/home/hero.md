@@ -36,8 +36,8 @@ hero_media = ""
 [cta]
   url = "https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history"
   label = "Purchase the book"
-  icon_pack = academicons
-  icon = "obp"
+  icon_pack = fas
+  icon = "book"
 
 
 
