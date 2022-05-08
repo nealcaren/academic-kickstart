@@ -6,6 +6,7 @@ headless: true
 title: Rough Draft of History
 weight: 55  # Order that this section will appear.
 subtitle: A Century of US Social Movements in the News
+active: false
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'

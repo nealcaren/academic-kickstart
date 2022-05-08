@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Rough Draft of History"
 subtitle = "A Century of US Social Movements in the News"
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "roughdraft.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
 
   # Background gradient.
   # gradient_start = "#4bb4e3"
