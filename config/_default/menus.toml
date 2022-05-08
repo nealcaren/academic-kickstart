@@ -10,8 +10,8 @@
 
 [[main]]
     name = "Rough Draft"
-    url = "roughtdraft"
-    weight = 50
+    url = "#roughtdraft"
+    weight = 30
 
 [[main]]
   name = "Publications"
