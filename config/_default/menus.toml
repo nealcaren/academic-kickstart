@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+    name = "Rough Draft"
+    url = "roughtdraft"
+    weight = 50
+
+[[main]]
   name = "Publications"
   url = "publication"
   weight = 40
