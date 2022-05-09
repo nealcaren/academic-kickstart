@@ -38,17 +38,8 @@ hero_media = "roughdraft.png"
   label = "Princeton University Press"
   icon_pack = "fas"
   icon = "book"
-
-[cta_alt]
-    url = "https://www.amazon.com/Rough-Draft-History-International-Perspectives/dp/0691232776/ref=sr_1_4?crid=1PYQAHQ8LND2G"
-    label = "Amazon"
-    icon_pack = "fas"
-    icon = "book"
-
 +++
 
 **By Edwin Amenta and Neal Caren**
 
-A comprehensive account of the media's coverage of social movements in the United States.
-
-2022. Princeton University Press.
+A comprehensive account of the media's coverage of social movements in the United States. Princeton University Press. 2022.
