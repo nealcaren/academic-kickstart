@@ -86,6 +86,6 @@ I am an Associate Professor in the  [Sociology](https://sociology.unc.edu/) at t
 
 I currently serve as the editor of the interdisciplinary social movements journal [*Mobilization*](https://mobilizationjournal.org), the premier journal of research specializing in social movements, protests, insurgencies, revolutions, and other forms of contentious politics. [Check out](https://mobilizationjournal.org/toc/maiq/24/1) our most recent issue.
 
-I teach graduate courses in computational social science, with a focus on collecting and analyzing text data with Python. At the undergraduate level, I teach Introduction to Sociology and the capstone course for our [Social and Economic Justice minor](https://sociology.unc.edu/undergraduate-program/social-and-economic-justice-minor/).
+I direct the undergraduate Sociology and Management and Societies majors at Carolina, and teach introduction to sociology and the senior honor thesis course. At the graduate level, I teach graduate courses in computational social science, with a focus on collecting and analyzing text data with Python.
 
-I enjoy the trails in [Carolina North](https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/). I am mediocre at racing on [trails](https://ultrasignup.com/results_participant.aspx?fname=Neal&lname=Caren), and [bikes](https://www.crossresults.com/racer/196345).
+I enjoy the trails in [Carolina North](https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/). I am mediocre at trail [running](https://ultrasignup.com/results_participant.aspx?fname=Neal&lname=Caren), and [bike racing](https://www.crossresults.com/racer/196345).
