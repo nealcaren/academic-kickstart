@@ -1,10 +1,9 @@
 [build]
-  command = "quarto render" # Quarto is installed by the plugin
+  command = "quarto render"
   publish = "_site"
 
-# We don't need QUARTO_VERSION in build.environment anymore, plugin handles it
-# [build.environment]
-#   QUARTO_VERSION = "1.7.32"
+[build.environment]
+  QUARTO_VERSION = "1.7.32"
 
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
