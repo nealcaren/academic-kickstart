@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+page-layout: article
+listing:
+  contents: "."
+  type: grid
+  sort: "title"
+  categories: false
+
+---
+
+Courses I have taught at UNC Chapel Hill, with links to syllabi and brief descriptions.

@@ -1,0 +1,7 @@
+---
+title: "Playing with article references"
+date: 2024-01-31
+categories: []
+---
+
+Quick scratchpad for testing reference formatting.

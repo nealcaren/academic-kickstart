@@ -1,0 +1,12 @@
+---
+title: "Posts"
+page-layout: article
+listing:
+  contents: "."
+  type: grid
+  sort: "date desc"
+  categories: false
+
+---
+
+Notes, drafts, and small experiments.

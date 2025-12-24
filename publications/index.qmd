@@ -1,0 +1,80 @@
+---
+title: "Publications"
+page-layout: article
+---
+
+::: {.publications-list}
+
+Vo, Austin Hoang-Nam, Katherine Furl, Todd Lu, and Neal Caren. Forthcoming. "<a href="https://doi.org/10.1080/00380253.2025.2604526" target="_blank">Perceiving Protest: How Publics View the Disruptiveness and Effectiveness of Protest</a>." *The Sociological Quarterly*.
+
+Caren, Neal, Kenneth T. Andrews, and Micah H. Nelson. 2025. "<a href="https://doi.org/10.1080/14742837.2023.2216652" target="_blank">Black lives matter protests and the 2020 Presidential election</a>." *Social Movement Studies* 24(3):273–290.
+
+Amenta, Edwin, Neal Caren, and Weijun Yuan. 2024. "<a href="https://doi.org/10.1111/socf.13006" target="_blank">Beyond the Protest Paradigm: Four Types of News Coverage and America’s Most Prominent Social Movement Organizations</a>." *Sociological Forum* 39:296-309.
+
+Yuan, Weijun, Neal Caren, and Edwin Amenta. 2023. "<a href="https://doi.org/10.1093/sf/soad057" target="_blank">What Drives the News Coverage of US Social Movements?</a>." *Social Forces* soad057.
+
+Caren, Neal. 2023. "<a href="https://doi.org/10.1093/sf/soad034" target="_blank">Four Eras of Studies of Politics and Social Movements in Social Forces</a>." *Social Forces* 101(4):1623-1632.
+
+Furl, Katherine, Todd Lu, Austin Hoang-Nam Vo, and Neal Caren. 2023. "<a href="https://doi.org/10.1177/23780231231212374" target="_blank">Comparing Perceived Disruptiveness and Effectiveness of Protest Tactics</a>." *Socius* 9.
+
+Amenta, Edwin, Neal Caren, and Weijun Yuan. 2023. "<a href="https://doi.org/10.1108/S0163-786X20230000047009" target="_blank">How to Analyze the Influence of Social Movements with QCA</a>." *Research in Social Movements Conflict and Change* 47:187-213.
+
+Caren, Neal. 2023. "<a href="https://doi.org/10.1177/2378023123118190" target="_blank">Right-Wing Protest in the United States, 2017 to 2022</a>." *Socius* 9:1-2.
+
+Amenta, Edwin, Neal Caren, and Weijun Yuan. 2023. "<a href="https://doi.org/10.1108/S0163-786X20230000047009" target="_blank">How to Analyze the Influence of Social Movements With QCA: Combinational Hypotheses, Venn Diagrams, and Movements Making Big News</a>." *Methodological Advances in Research on Social Movements, Conflict, and Change* 47:187-213.
+
+Amenta, Edwin and Neal Caren. 2022. *[Rough Draft of History: A Century of US Social Movements in the News](https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history).* Princeton University Press.
+
+Caren, Neal, Kenneth T. Andrews, and Todd Lu. 2020. "<a href="https://doi.org/10.1146/annurev-soc-121919-054627" target="_blank">Contemporary Social Movements in a Hybrid Media Environment</a>." *Annual Review of Sociology* 46(1):443-465.
+
+Andrews, Kenneth T, Neal Caren, and Todd Lu. 2020. "Racial, ethnic, and immigration protest during year one of the Trump presidency." *Racialized Protest and the State: Resistance and Repression in a Divided America* 208-226.
+
+Andrews, Kenneth T, Neal Caren, and Alyssa Browne. 2018. "<a href="https://doi.org/10.17813/1086-671X-23-4-393" target="_blank">Protesting Trump</a>." *Mobilization: An International Quarterly* 23(4):393-400.
+
+Amenta, Edwin, Kenneth T Andrews, and Neal Caren. 2018. "The Political Institutions, Processes, and Outcomes Movements Seek to Influence." *The Wiley Blackwell Companion to Social Movements* 447-465.
+
+Caren, Neal, Sarah Gaby, and Catherine Herrold. 2017. "<a href="https://doi.org/10.1093/socpro/spw030" target="_blank">Economic Breakdown and Collective Action</a>." *Social Problems* 64(1):133-155.
+
+Perrin, Andrew J, Neal Caren, Asheley C Skinner, Adebowale Odulana, and Eliana M Perrin. 2016. "<a href="https://doi.org/10.1186/s12889-016-3866-3" target="_blank">The unbuilt environment: culture moderates the built environment for physical activity</a>." *BMC public health* 16(1):1227.
+
+Gaby, Sarah and Neal Caren. 2016. "<a href="https://doi.org/10.17813/1086-671X-21-4-413" target="_blank">The rise of inequality: How social movements shape discursive fields</a>." *Mobilization: An International Quarterly* 21(4):413-429.
+
+Elliott, Thomas Alan, Edwin Amenta, and Neal Caren. 2016. "<a href="https://doi.org/10.1111/socf.12290" target="_blank">Recipes for attention: Policy reforms, crises, organizational characteristics, and the newspaper coverage of the LGBT Movement, 1969–2009</a>." *Sociological Forum* 31(4):926-947.
+
+Kadivar, Mohammad Ali and Neal Caren. 2015. "<a href="https://doi.org/10.1093/sf/sov096" target="_blank">Disruptive Democratization: Contentious Events and Liberalizing Outcomes Globally, 1990–2004</a>." *Social Forces* 94(3):975-996.
+
+Perrin, Andrew J, Steven J Tepper, Neal Caren, and Sally Morris. 2014. "<a href="https://doi.org/10.1111/tsq.12069" target="_blank">Political and cultural dimensions of Tea Party support, 2009–2012</a>." *The Sociological Quarterly* 55(4):625-652.
+
+Perrin, Andrew J, Philip N Cohen, and Neal Caren. 2013. "<a href="http://dx.doi.org/10.1080/19359705.2013.772553" target="_blank">Are children of parents who had same-sex relationships disadvantaged? A scientific evaluation of the no-differences hypothesis</a>." *Journal of Gay & Lesbian Mental Health* 17(3):327-336.
+
+Caren, Neal, Kay Jowers, and Sarah Gaby. 2012. "<a href="https://doi.org/10.1108/S0163-786X(2012)0000033010" target="_blank">A Social Movement Online Community: Stormfront and the White Nationalist Movement</a>." *Media, Movements, and Political Change* 33:163-193.
+
+Amenta, Edwin, Neal Caren, and James E Stobaugh. 2012. "<a href="https://doi.org/10.2307/41683159" target="_blank">Political Reform and the Historical Trajectories of US Social Movements in the Twentieth Century</a>." *Social Forces* 90(4):1073-1100.
+
+Gaby, Sarah and Neal Caren. 2012. "<a href="https://doi.org/10.1080/14742837.2012.708858" target="_blank">Occupy online: How cute old men and Malcolm X recruited 400,000 US users to OWS on Facebook</a>." *Social Movement Studies* 11(3-4):367-374.
+
+Caren, Neal, Raj Andrew Ghoshal, and Vanesa Ribas. 2011. "<a href="https://doi.org/10.1177/0003122410395369" target="_blank">A social movement generation: Cohort and period trends in protest attendance and petition signing</a>." *American Sociological Review* 76(1):125-151.
+
+Amenta, Edwin, Neal Caren, Elizabeth Chiarello, and Yang Su. 2010. "<a href="https://doi.org/10.1146/annurev-soc-070308-120029" target="_blank">The Political Consequences of Social Movements</a>." *Annual Review of Sociology* 36:287-307.
+
+Andrews, Kenneth T and Neal Caren. 2010. "<a href="https://doi.org/10.1177/0003122410386689" target="_blank">Making the News: Movement Organizations, Media Attention, and the Public Agenda</a>." *American Sociological Review* 75(6):841-866.
+
+Amenta, Edwin, Neal Caren, Sheera Joy Olasky, and James E Stobaugh. 2009. "<a href="https://doi.org/10.1177/000312240907400407" target="_blank">All the movements fit to print: Who, what, when, where, and why SMO families appeared in the New York Times in the twentieth century</a>." *American Sociological Review* 74(4):636-656.
+
+Caren, Neal. 2007. "<a href="https://doi.org/10.1111/j.1467-9906.2007.00321.x" target="_blank">Big city, big turnout? Electoral participation in American cities</a>." *Journal of Urban Affairs* 29(1):31-46.
+
+Amenta, Edwin, Neal Caren, and Sheera Joy Olasky. 2005. "<a href="https://doi.org/10.1177/000312240507000308" target="_blank">Age for leisure? Political mediation and the impact of the pension movement on US old-age policy</a>." *American Sociological Review* 70(3):516-538.
+
+Amenta, Edwin, Neal Caren, and Sheera Joy Olasky. 2005. "<a href="https://doi.org/10.1525/ctx.2005.4.3.48" target="_blank">newspaper coverage of social movement organizations in the 20th century</a>." *contexts* 4(3):48-49.
+
+Caren, Neal and Aaron Panofsky. 2005. "<a href="https://doi.org/10.1177/0049124105277197" target="_blank">TQCA: A Technique for Adding Temporality to Qualitative Comparative Analysis</a>." *Sociological methods & research* 34(2):147-172.
+
+Amenta, Edwin and Neal Caren. 2004. "The Legislative, Organizational, and Beneficiary Consequences of State-Oriented Challengers." *The Blackwell companion to social movements* 461-488.
+
+Armato, Michael and Neal Caren. 2002. "<a href="https://doi.org/10.1023/A:1014360308993" target="_blank">Mobilizing the Single-Case Study: Doug McAdam's Political Process and the Development of Black Insurgency, 1930–1970</a>." *Qualitative sociology* 25(1):93-103.
+
+Amenta, Edwin, Neal Caren, Tina Fetner, and Michael P Young. 2002. "Challengers and states: Toward a political sociology of social movements." *Research in Political Sociology* 10:47-83.
+
+Amenta, Edwin, Chris Bonastia, and Neal Caren. 2001. "<a href="https://doi.org/10.1146/annurev.soc.27.1.213" target="_blank">US social policy in comparative and historical perspective: Concepts, images, arguments, and research strategies</a>." *Annual Review of Sociology* 27:213-234.
+
+:::

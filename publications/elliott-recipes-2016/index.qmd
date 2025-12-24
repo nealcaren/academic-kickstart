@@ -1,0 +1,33 @@
+---
+title: 'Recipes for attention: Policy reforms, crises, organizational characteristics,
+  and the newspaper coverage of the LGBT Movement, 1969–2009'
+date: 2016-01-01
+authors:
+- Thomas Alan Elliott
+- Edwin Amenta
+- Neal Caren
+publication_types:
+- '2'
+abstract: 'Why do some organizations in a movement seeking social change gain extensive
+  national newspaper coverage? To address the question, we innovate in theoretical
+  and empirical ways. First, we elaborate a theoretical argument that builds from
+  the political mediation theory of movement consequences and incorporates the social
+  organization of newspaper practices. This media and political mediation model integrates
+  political and media contexts and organizations'' characteristics and actions. With
+  this model, we hypothesize two main routes to coverage: one that includes changes
+  in public policy and involves policy‐engaged, well‐resourced, and inclusive organizations
+  and a second that combines social crises and protest organizations. Second, we appraise
+  these arguments with the first analysis of the national coverage of all organizations
+  in a social movement over its career: 84 lesbian, gay, bisexual, and transgender
+  rights and AIDS‐related organizations in the New York Times, Los Angeles Times,
+  and Wall Street Journal from 1969 to 2010. These analyses go beyond previous research
+  that provides either snapshots of many organizations at one point in time or overtime
+  analyses of aggregated groups of organizations or individual organizations. The
+  results of both historical and fuzzy set qualitative comparative analyses support
+  our media and political mediation model.'
+featured: false
+publication: '*Sociological Forum*'
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/socf.12290
+doi: 10.1111/socf.12290
+---
+

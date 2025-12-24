@@ -1,0 +1,30 @@
+<div class="publications-list">
+  <% for (const item of items) { %>
+    <div class="publication-item" style="margin-bottom: 1rem; font-family: inherit;">
+      <!-- Authors -->
+      <% if (item.authors) { %>
+        <%= item.authors.join(", ") %>.
+      <% } else if (item.author) { %>
+        <%= item.author.join(", ") %>.
+      <% } %>
+      
+      <!-- Date/Year -->
+      <% if (item.date) { %>
+        <%= item.date.getFullYear() %>.
+      <% } %>
+
+      <!-- Title with Link -->
+      <% if (item.doi) { %>
+        "<a href="<%= item.doi %>" target="_blank"><%= item.title %></a>."
+      <% } else { %>
+        "<%= item.title %>."
+      <% } %>
+
+      <!-- Publication -->
+      <% if (item.publication) { %>
+        <!-- Strip existing markdown asterisks if present since we are adding em tags -->
+        <em><%= item.publication.replace(/^\*|\*$/g, '') %></em>.
+      <% } %>
+    </div>
+  <% } %>
+</div>

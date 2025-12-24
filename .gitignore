@@ -1,4 +1,5 @@
 public/
+_site/
 .idea/
 content/publication/.DS_Store
 content/.DS_Store

@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "publications/**/*.qmd"
+    - "teaching/**/*.qmd"
+    - "posts/**/*.qmd"
+  resources:
+    - images/**
+    - publications/**
+    - teaching/**
+    - posts/**
+
+website:
+  title: "Neal Caren"
+  site-url: https://nealcaren.org
+  description: "Associate Professor of Sociology at UNC-Chapel Hill, focusing on social movements, media, and computational social science."
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Rough Draft
+        href: rough-draft.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Contact
+        href: index.qmd#contact
+    right:
+      - icon: envelope
+        href: "mailto:neal.caren@unc.edu"
+      - icon: link
+        href: https://bsky.app/profile/haphazardsoc.bsky.social
+      - icon: github
+        href: https://github.com/nealcaren
+      - icon: journal-text
+        href: https://scholar.google.com/citations?user=cy0u16kAAAAJ&hl=en
+  page-footer:
+    center:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+      - text: "Hosted on Netlify"
+        href: https://www.netlify.com
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
