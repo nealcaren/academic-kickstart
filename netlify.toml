@@ -1,12 +1,12 @@
 [build]
-  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.32/quarto-1.7.32-linux-amd64.tar.gz && tar -xzf quarto-1.7.32-linux-amd64.tar.gz && ./quarto-1.7.32-linux-amd64/bin/quarto render"
+  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz && tar -xzf quarto-1.6.40-linux-amd64.tar.gz && ./quarto-1.6.40-linux-amd64/bin/quarto render"
   publish = "_site"
 
 [build.environment]
-  QUARTO_VERSION = "1.7.32"
+  QUARTO_VERSION = "1.6.40"
 
 [context.production.environment]
-  QUARTO_VERSION = "1.7.32"
+  QUARTO_VERSION = "1.6.40"
 
 [context.production.environment]
   QUARTO_VERSION = "1.7.32"
