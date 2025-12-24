@@ -1,5 +1,5 @@
 [build]
-  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz && tar -xzf quarto-1.6.40-linux-amd64.tar.gz && ./quarto-1.6.40-linux-amd64/bin/quarto render"
+  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz && mkdir -p quarto-bin && tar -xzf quarto-1.6.40-linux-amd64.tar.gz -C quarto-bin --strip-components=1 && ./quarto-bin/bin/quarto render"
   publish = "_site"
 
 [build.environment]
