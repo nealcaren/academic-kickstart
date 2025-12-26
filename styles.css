@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap");
 
 :root {
-  --accent: #004b87;
+  --accent: #007FAE;
+  --carolina-blue: #4B9CD3;
+  --navy: #13294B;
 }
 
 body,
@@ -17,10 +19,15 @@ li,
 
 h1,
 h2,
+.h1,
+.h2 {
+  font-family: "Merriweather", serif !important;
+  color: var(--navy);
+  letter-spacing: -0.01em;
+}
+
 h3,
 h4,
-.h1,
-.h2,
 .h3,
 .h4,
 .navbar-brand,
@@ -39,7 +46,17 @@ a:hover {
 }
 
 .navbar {
+  background-color: var(--carolina-blue) !important;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover {
+  color: #e2e8f0 !important;
 }
 
 .about .about-image {
