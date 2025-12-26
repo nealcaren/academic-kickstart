@@ -22,6 +22,8 @@ abstract: 'Media are central to the dynamics of protest and social movements. Co
   from targets and authorities.'
 featured: false
 publication: '*Annual Review of Sociology*'
-doi: https://doi.org/10.1146/annurev-soc-121919-054627
+volume: '46'
+pages: '443-465'
+doi: 10.1146/annurev-soc-121919-054627
 ---
 

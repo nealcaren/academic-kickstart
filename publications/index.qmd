@@ -7,7 +7,7 @@ listing:
   type: custom
   template: ../publication-item.ejs
   sort: "date desc"
-  fields: [title, date, authors, publication, doi, abstract, path, url_pdf]
+  fields: [title, date, authors, publication, volume, issue, pages, doi, abstract, path, url_pdf]
 ---
 
 ::: {#publications-listing}

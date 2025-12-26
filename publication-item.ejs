@@ -6,6 +6,15 @@
   const yearStr = new Date(item.date).getFullYear();
   const pub = item.publication ? item.publication.replace(/\*/g, '') : '';
   const title = item.title || '';
+  const volume = item.volume || '';
+  const issue = item.issue || '';
+  const pages = item.pages || '';
+  let volumeIssuePages = '';
+  if (volume) {
+    volumeIssuePages = ' ' + volume;
+    if (issue) volumeIssuePages += '(' + issue + ')';
+    if (pages) volumeIssuePages += ':' + pages;
+  }
   const pubDir = item.path ? item.path.replace('/index.qmd', '') : '';
   const dirName = pubDir.split('/').pop();
   const pdfPath = pubDir + '/' + dirName + '.pdf';
@@ -19,7 +28,7 @@
 </div>
 <div class="publication-content">
 <div class="publication-citation">
-<%- authors %>. <%- yearStr %>. "<%- title %>." <em><%- pub %></em>. <% if (item.doi) { %><a href="https://doi.org/<%- item.doi %>" target="_blank">[DOI]</a><% } %> <a href="<%- pdfPath %>" target="_blank" rel="noopener">[PDF]</a>
+<%- authors %>. <%- yearStr %>. "<%- title %>." <em><%- pub %></em><%- volumeIssuePages %>.<% if (item.doi) { %> <a href="https://doi.org/<%- item.doi %>" target="_blank">[DOI]</a><% } %> <a href="<%- pdfPath %>" target="_blank" rel="noopener">[PDF]</a>
 </div>
 <% if (item.abstract) { %>
 <details class="publication-abstract">
