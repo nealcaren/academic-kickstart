@@ -1,15 +1,5 @@
 [build]
   command = """
-    # Install system dependencies for PDF processing
-    apt-get update && apt-get install -y poppler-utils
-
-    # Install UV (Python package manager)
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    export PATH="$HOME/.local/bin:$PATH"
-
-    # Generate thumbnails from PDFs
-    ./scripts/generate_thumbnails.py
-
     # Download and extract Quarto
     curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz
     mkdir -p /tmp/quarto
