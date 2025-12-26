@@ -1,20 +1,5 @@
-<%
-// Group publications by year
-const publicationsByYear = {};
-for (const item of items) {
-  const year = new Date(item.date).getFullYear();
-  if (!publicationsByYear[year]) {
-    publicationsByYear[year] = [];
-  }
-  publicationsByYear[year].push(item);
-}
-const years = Object.keys(publicationsByYear).sort((a, b) => b - a);
-%>
 <div class="publications-list">
-<% for (let i = 0; i < years.length; i++) { const year = years[i]; %>
-<div class="publication-year-section">
-<h2 class="publication-year"><%- year %></h2>
-<% for (const item of publicationsByYear[year]) {
+<% for (const item of items) {
   const authors = item.authors ? (item.authors.length === 1 ? item.authors[0] :
                                   item.authors.length === 2 ? item.authors.join(' and ') :
                                   item.authors.slice(0, -1).join(', ') + ', and ' + item.authors[item.authors.length - 1]) : '';
@@ -29,7 +14,9 @@ const years = Object.keys(publicationsByYear).sort((a, b) => b - a);
 %>
 <div class="publication-item">
 <div class="publication-thumbnail">
+<a href="<%- pdfPath %>" target="_blank" rel="noopener">
 <img src="<%- thumbnailPath %>" alt="" loading="lazy" />
+</a>
 </div>
 <div class="publication-content">
 <div class="publication-citation">
@@ -51,10 +38,5 @@ const years = Object.keys(publicationsByYear).sort((a, b) => b - a);
 <% } %>
 </div>
 </div>
-<% } %>
-</div>
-<% if (i < years.length - 1) { %>
-<hr class="year-divider" />
-<% } %>
 <% } %>
 </div>

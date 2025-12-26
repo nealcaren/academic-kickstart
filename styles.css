@@ -168,18 +168,6 @@ a:hover {
   margin: 0 auto;
 }
 
-.publication-year-section {
-  margin-bottom: 2rem;
-}
-
-.publication-year {
-  font-size: 1.75rem;
-  color: var(--navy);
-  margin: 2rem 0 1rem 0;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--carolina-blue);
-}
-
 .publication-item {
   display: grid;
   grid-template-columns: 200px 1fr;
@@ -202,12 +190,24 @@ a:hover {
   flex-shrink: 0;
 }
 
+.publication-thumbnail a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .publication-thumbnail img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 4px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.publication-thumbnail a:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
 .publication-content {
@@ -292,8 +292,10 @@ a:hover {
   background-color: #e9ecef;
 }
 
-.publication-abstract summary::-webkit-details-marker {
+.publication-abstract summary::-webkit-details-marker,
+.publication-abstract summary::marker {
   display: none;
+  content: none;
 }
 
 .publication-abstract summary::before {
@@ -301,6 +303,7 @@ a:hover {
   display: inline-block;
   margin-right: 0.5rem;
   transition: transform 0.2s ease;
+  flex-shrink: 0;
 }
 
 .publication-abstract[open] summary::before {
@@ -312,12 +315,6 @@ a:hover {
   margin: 0;
   line-height: 1.7;
   background-color: white;
-}
-
-.year-divider {
-  border: none;
-  border-top: 1px solid #e2e8f0;
-  margin: 2rem 0;
 }
 
 /* Mobile responsive */
