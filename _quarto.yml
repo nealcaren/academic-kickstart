@@ -25,6 +25,8 @@ website:
         href: rough-draft.qmd
       - text: Publications
         href: publications/index.qmd
+      - text: Digital Projects
+        href: digital-projects.qmd
       - text: CV
         href: Caren-CV-20251212.pdf
     right:

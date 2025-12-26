@@ -1,0 +1,23 @@
+---
+title: "Digital Projects"
+---
+
+### [Dangerous Press](https://dangerouspress.org)
+
+The largest open archive of early 20th-century Black newspapers, containing over 15,000 issues from dozens of papers.
+
+### [Dare You Fight: W.E.B Du Bois in *The Crisis*](https://dareyoufight.org)
+
+A digital archive of W.E.B. Du Bois's writings from his 24-year tenure at *The Crisis*.
+
+### [Crisis & Opportunity](https://www.crisisopportunity.org)
+
+A repository of early 20th-century social science articles by African American scholars.
+
+### [23 Fifth Avenue](https://23-fifth-avenue.pubpub.org)
+
+A repository of pieces by early 20th-century reformers.
+
+### [C&O Books](https://www.crisisopportunity.org/books/)
+
+New transcriptions of public domain novels from the Harlem Renaissance.
