@@ -1,0 +1,14 @@
+---
+title: Black lives matter protests and the 2020 Presidential election
+date: 2025-01-01
+authors:
+- Neal Caren
+- Kenneth T. Andrews
+- Micah H. Nelson
+publication_types:
+- '2'
+abstract: TBD
+featured: false
+publication: '*Social Movement Studies*'
+doi: 10.1080/14742837.2023.2216652
+---

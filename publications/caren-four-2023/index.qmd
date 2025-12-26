@@ -1,0 +1,12 @@
+---
+title: Four Eras of Studies of Politics and Social Movements in Social Forces
+date: 2023-02-01
+authors:
+- Neal Caren
+publication_types:
+- '2'
+abstract: TBD
+featured: false
+publication: '*Social Forces*'
+doi: 10.1093/sf/soad034
+---

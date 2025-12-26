@@ -1,0 +1,12 @@
+---
+title: Right-Wing Protest in the United States 2017 to 2022
+date: 2023-01-01
+authors:
+- Neal Caren
+publication_types:
+- '2'
+abstract: TBD
+featured: false
+publication: '*Socius*'
+doi: 10.1177/2378023123118190
+---

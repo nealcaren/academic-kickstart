@@ -1,0 +1,14 @@
+---
+title: Beyond the Protest Paradigm Four Types of News Coverage and America's Most Prominent Social Movement Organizations
+date: 2024-01-01
+authors:
+- Edwin Amenta
+- Neal Caren
+- Weijun Yuan
+publication_types:
+- '2'
+abstract: TBD
+featured: false
+publication: '*Sociological Forum*'
+doi: 10.1111/socf.13006
+---
