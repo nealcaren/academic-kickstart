@@ -10,7 +10,5 @@ listing:
   fields: [title, date, authors, publication, doi, abstract, path, url_pdf]
 ---
 
-<script src="../publications.js"></script>
-
 ::: {#publications-listing}
 :::

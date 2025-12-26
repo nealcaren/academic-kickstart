@@ -6,7 +6,6 @@
   const yearStr = new Date(item.date).getFullYear();
   const pub = item.publication ? item.publication.replace(/\*/g, '') : '';
   const title = item.title || '';
-  const citationText = authors + '. ' + yearStr + '. "' + title + '." ' + pub + '.';
   const pubDir = item.path ? item.path.replace('/index.qmd', '') : '';
   const dirName = pubDir.split('/').pop();
   const pdfPath = pubDir + '/' + dirName + '.pdf';
@@ -20,15 +19,7 @@
 </div>
 <div class="publication-content">
 <div class="publication-citation">
-<%- authors %>. <%- yearStr %>. "<% if (item.doi) { %><a href="<%- item.doi %>" target="_blank"><%- title %></a><% } else { %><%- title %><% } %>." <em><%- pub %></em>.
-<div class="publication-actions">
-<a href="<%- pdfPath %>" class="btn-download" target="_blank" rel="noopener">
-<i class="bi bi-file-pdf"></i> PDF
-</a>
-<button class="btn-copy-citation" data-citation="<%- citationText.replace(/"/g, '&quot;') %>" title="Copy citation to clipboard">
-<i class="bi bi-clipboard"></i> Copy Citation
-</button>
-</div>
+<%- authors %>. <%- yearStr %>. "<%- title %>." <em><%- pub %></em>. <% if (item.doi) { %><a href="https://doi.org/<%- item.doi %>" target="_blank">[DOI]</a><% } %> <a href="<%- pdfPath %>" target="_blank" rel="noopener">[PDF]</a>
 </div>
 <% if (item.abstract) { %>
 <details class="publication-abstract">
