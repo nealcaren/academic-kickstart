@@ -30,6 +30,8 @@ website:
     right:
       - icon: envelope
         href: "mailto:neal.caren@unc.edu"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/neal-caren-3689442a9/
       - icon: link
         href: https://bsky.app/profile/haphazardsoc.bsky.social
       - icon: github
