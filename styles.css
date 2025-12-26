@@ -129,3 +129,23 @@ a:hover {
 .about-links {
   display: none;
 }
+
+/* Digital Projects page images */
+.project-image {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
+  float: right;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 768px) {
+  .project-image {
+    float: none;
+    margin: 0 auto 1rem auto;
+    display: block;
+    max-width: 100%;
+  }
+}
