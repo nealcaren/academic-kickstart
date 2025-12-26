@@ -1,0 +1,60 @@
+<%
+// Group publications by year
+const publicationsByYear = {};
+for (const item of items) {
+  const year = new Date(item.date).getFullYear();
+  if (!publicationsByYear[year]) {
+    publicationsByYear[year] = [];
+  }
+  publicationsByYear[year].push(item);
+}
+const years = Object.keys(publicationsByYear).sort((a, b) => b - a);
+%>
+<div class="publications-list">
+<% for (let i = 0; i < years.length; i++) { const year = years[i]; %>
+<div class="publication-year-section">
+<h2 class="publication-year"><%- year %></h2>
+<% for (const item of publicationsByYear[year]) {
+  const authors = item.authors ? (item.authors.length === 1 ? item.authors[0] :
+                                  item.authors.length === 2 ? item.authors.join(' and ') :
+                                  item.authors.slice(0, -1).join(', ') + ', and ' + item.authors[item.authors.length - 1]) : '';
+  const yearStr = new Date(item.date).getFullYear();
+  const pub = item.publication ? item.publication.replace(/\*/g, '') : '';
+  const title = item.title || '';
+  const citationText = authors + '. ' + yearStr + '. "' + title + '." ' + pub + '.';
+  const pubDir = item.path ? item.path.replace('/index.qmd', '') : '';
+  const dirName = pubDir.split('/').pop();
+  const pdfPath = pubDir + '/' + dirName + '.pdf';
+  const thumbnailPath = pubDir + '/thumbnail.jpg';
+%>
+<div class="publication-item">
+<div class="publication-thumbnail">
+<img src="<%- thumbnailPath %>" alt="" loading="lazy" />
+</div>
+<div class="publication-content">
+<div class="publication-citation">
+<%- authors %>. <%- yearStr %>. "<% if (item.doi) { %><a href="<%- item.doi %>" target="_blank"><%- title %></a><% } else { %><%- title %><% } %>." <em><%- pub %></em>.
+<div class="publication-actions">
+<a href="<%- pdfPath %>" class="btn-download" target="_blank" rel="noopener">
+<i class="bi bi-file-pdf"></i> PDF
+</a>
+<button class="btn-copy-citation" data-citation="<%- citationText.replace(/"/g, '&quot;') %>" title="Copy citation to clipboard">
+<i class="bi bi-clipboard"></i> Copy Citation
+</button>
+</div>
+</div>
+<% if (item.abstract) { %>
+<details class="publication-abstract">
+<summary>Abstract</summary>
+<p><%- item.abstract %></p>
+</details>
+<% } %>
+</div>
+</div>
+<% } %>
+</div>
+<% if (i < years.length - 1) { %>
+<hr class="year-divider" />
+<% } %>
+<% } %>
+</div>

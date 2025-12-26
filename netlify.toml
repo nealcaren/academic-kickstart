@@ -1,5 +1,23 @@
 [build]
-  command = "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz && mkdir -p /tmp/quarto && tar -xzf quarto-1.6.40-linux-amd64.tar.gz -C /tmp/quarto --strip-components=1 && /tmp/quarto/bin/quarto render"
+  command = """
+    # Install system dependencies for PDF processing
+    apt-get update && apt-get install -y poppler-utils
+
+    # Install UV (Python package manager)
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    export PATH="$HOME/.local/bin:$PATH"
+
+    # Generate thumbnails from PDFs
+    ./scripts/generate_thumbnails.py
+
+    # Download and extract Quarto
+    curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-amd64.tar.gz
+    mkdir -p /tmp/quarto
+    tar -xzf quarto-1.6.40-linux-amd64.tar.gz -C /tmp/quarto --strip-components=1
+
+    # Render site
+    /tmp/quarto/bin/quarto render
+  """
   publish = "_site"
 
 [build.environment]
