@@ -18,7 +18,7 @@
   const pubDir = item.path ? item.path.replace('/index.qmd', '') : '';
   const dirName = pubDir.split('/').pop();
   const pdfPath = pubDir + '/' + dirName + '.pdf';
-  const thumbnailPath = pubDir + '/thumbnail.jpg';
+  const thumbnailPath = item.image ? pubDir + '/' + item.image : pubDir + '/thumbnail.jpg';
 %>
 <div class="publication-item">
 <div class="publication-thumbnail">
