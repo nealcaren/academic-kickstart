@@ -6,19 +6,6 @@ about:
   image: images/avatar.jpg
   image-alt: "Photo of Neal Caren"
   image-shape: round
-  links:
-    - icon: envelope
-      text: "neal.caren@unc.unc.edu"
-      href: "mailto:neal.caren@unc.unc.edu"
-    - icon: link
-      text: "@haphazardsoc.bsky.social"
-      href: "https://bsky.app/profile/haphazardsoc.bsky.social"
-    - icon: journal-text
-      text: "Google Scholar"
-      href: "https://scholar.google.com/citations?user=cy0u16kAAAAJ&hl=en"
-    - icon: github
-      text: "GitHub"
-      href: "https://github.com/nealcaren"
 ---
 
 ::: {.blurb}

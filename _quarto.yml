@@ -35,12 +35,6 @@ website:
         href: https://github.com/nealcaren
       - icon: journal-text
         href: https://scholar.google.com/citations?user=cy0u16kAAAAJ&hl=en
-  page-footer:
-    center:
-      - text: "Built with Quarto"
-        href: https://quarto.org
-      - text: "Hosted on Netlify"
-        href: https://www.netlify.com
 
 format:
   html:
