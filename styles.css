@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #0e6bb8;
+  color: #005f87;
 }
 
 .navbar {
@@ -127,9 +127,5 @@ a:hover {
 }
 
 .about-links {
-  margin-top: 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem;
+  display: none;
 }
