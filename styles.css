@@ -131,7 +131,7 @@ a:hover {
 }
 
 /* Digital Projects page images */
-.project-image {
+.project-image-right {
   max-width: 300px;
   width: 100%;
   height: auto;
@@ -141,8 +141,19 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+.project-image-left {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  margin: 0 1.5rem 1rem 0;
+  float: left;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
 @media (max-width: 768px) {
-  .project-image {
+  .project-image-right,
+  .project-image-left {
     float: none;
     margin: 0 auto 1rem auto;
     display: block;
